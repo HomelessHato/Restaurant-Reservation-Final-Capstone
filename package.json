@@ -49,6 +49,8 @@
   "author": "Thinkful, Inc.",
   "license": "UNLICENSED",
   "dependencies": {
-    "react-icons": "^4.4.0"
+    "react-icons": "^4.4.0",
+    "source-map-url": "^0.4.1",
+    "urix": "^0.1.0"
   }
 }
