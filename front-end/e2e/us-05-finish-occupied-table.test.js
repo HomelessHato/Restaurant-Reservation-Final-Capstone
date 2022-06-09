@@ -140,4 +140,4 @@ describe("US-05 - Finish an occupied table - E2E", () => {
       expect(containsFree).toBe(false);
     });
   });
-});
+}); //
