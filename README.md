@@ -35,7 +35,6 @@ Additional Tools Used
 
 
 ## Features <a name="features"></a>
-This is a sub paragraph, formatted in heading 3 style
 
 ## Reservation Features <a name="reservations"></a>
 ### Create Reservation
