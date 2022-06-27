@@ -39,7 +39,7 @@ This is a sub paragraph, formatted in heading 3 style
 
 ### Reservation Features <a name="reservations"></a>
 The second paragraph text
-![Creating Reservation](https://imgur.com/gallery/B2Vk0zD)
+![https://imgur.com/gallery/B2Vk0zD](https://www.kapwing.com/videos/62ba18b8322912008060b1e0)
 
 
 
