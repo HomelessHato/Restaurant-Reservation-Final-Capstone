@@ -9,6 +9,7 @@
 3. [Features](#features)
     - [Reservations](#reservations)
     - [Tables](#tables)
+    - [Mobile Design Consideration](#mobile)
 4. [Custom Database Setup](#databaseSetup)
 5. [Local Installation Instructions](#installation)
 
@@ -85,6 +86,13 @@ User can click on either the `+` button next to the table listings or at the top
 Once a reservation has been served. Users can free tables of reservations by clicking the `Finish` button located at the bottom of the reservation card of an occupied table. After clicking the finish button, a windows confirmation pop-up message will appear asking the user to confirm the freeing of the table. 
 
 <img src="assets/FinishingTable.gif">
+
+## Mobile Design <a name="mobile>
+
+Created UI that was mobile friendly, the navbar in particular, once it gets below a specific `width x height` it will collapse, the user can then click on the collapse button to view the links of the navbar. The card display of the `reservations` and the `tables` collapse to a single column design.`
+
+<img src="assets/MobileResponsiveness.gif">
+
 
 ## Database Setup <a name="databaseSetup">
 
